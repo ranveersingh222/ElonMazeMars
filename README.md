@@ -12,6 +12,10 @@ Help Elon navigate through a mysterious maze and reach Mars! 🌌 This fun C++ p
 3. Navigate through the maze and reach `M` (Mars)!
 4. Avoid walls (`#`) and find the best route.
 5. Reach Mars to win! 🎉
+<p align="center">
+  <img src="https://media.tenor.com/XZy7hL2CpL4AAAAd/elon-musk-marserc20.gif" width="600" alt="Elon Musk Mars GIF">
+</p>
+
 
 ## 🔧 How to Run
 ### 🖥️ On Windows:
@@ -19,4 +23,3 @@ Help Elon navigate through a mysterious maze and reach Mars! 🌌 This fun C++ p
 cd D:\RvElon
 g++ Elonmarsmaze.cpp -o Elonmarsmaze.exe
 Elonmarsmaze.exe
-<div class="tenor-gif-embed" data-postid="1902419760978212935" data-share-method="host" data-aspect-ratio="0.771084" data-width="100%"><a href="https://tenor.com/view/elon-musk-marserc20-mars-crypto-gif-1902419760978212935">Elon Musk Marserc20 GIF</a>from <a href="https://tenor.com/search/elon+musk-gifs">Elon Musk GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
