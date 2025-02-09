@@ -13,5 +13,5 @@ Help Elon navigate through a mysterious maze and reach Mars! 🌌 This fun C++ p
 4. Avoid walls (`#`) and find the best route.
 5. Reach Mars to win! 🎉
 <p align="center">
-  <img src="https://media.tenor.com/O8b6ywrTuA8AAAAC/elon-musk-marserc20.gif" width="600" alt="Elon Musk Mars GIF">
+  <img src="https://media1.tenor.com/m/GmbAsXLKOEcAAAAd/elon-musk-marserc20.gif" width="600" alt="Elon Musk Mars GIF">
 </p>
