@@ -15,11 +15,3 @@ Help Elon navigate through a mysterious maze and reach Mars! 🌌 This fun C++ p
 <p align="center">
   <img src="https://media.tenor.com/XZy7hL2CpL4AAAAd/elon-musk-marserc20.gif" width="600" alt="Elon Musk Mars GIF">
 </p>
-
-
-## 🔧 How to Run
-### 🖥️ On Windows:
-```bash
-cd D:\RvElon
-g++ Elonmarsmaze.cpp -o Elonmarsmaze.exe
-Elonmarsmaze.exe
