@@ -19,6 +19,4 @@ Help Elon navigate through a mysterious maze and reach Mars! 🌌 This fun C++ p
 cd D:\RvElon
 g++ Elonmarsmaze.cpp -o Elonmarsmaze.exe
 Elonmarsmaze.exe
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzU0cW5sY2drMTJ6dDFmYXA3OXh6dHVkNnJzZGV6OHdoOXM1eHBheCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKU8RvQuomFfUUU/giphy.gif" width="600" alt="Elon Navigating the Maze">
-</p>
+<div class="tenor-gif-embed" data-postid="1902419760978212935" data-share-method="host" data-aspect-ratio="0.771084" data-width="100%"><a href="https://tenor.com/view/elon-musk-marserc20-mars-crypto-gif-1902419760978212935">Elon Musk Marserc20 GIF</a>from <a href="https://tenor.com/search/elon+musk-gifs">Elon Musk GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
